@@ -1,0 +1,62 @@
+ody {
+	background-color: #66ccff;
+}
+
+img {
+	height: 50%%;
+	width: 35%;
+	position: relative;
+	float: right;
+}
+
+h1 {
+	font-family: Papyrus, fantasy;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26px;
+	color: #666699;
+	padding: 8px;
+	border: 7px solid #003366;
+	margin: auto;
+	float: center;
+	position: relative;
+}
+
+h3 {
+	font-family: Papyrus, fantasy;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26px;
+	color: #666699;
+	margin: auto;
+	float: center;
+}
+
+.linx:hover {
+	background-color: #ffff99;
+}
+
+p {
+	font-family: Papyrus, fantasy;
+	font-style: normal;
+	font-variant: normal;
+	color: #000066;
+	margin: auto;
+	float: center;
+	position: relative;
+}
+
+li {
+	font-family: Papyrus, fantasy;
+	font-style: normal;
+	font-variant: normal;
+	color: #000066;
+	margin: auto;
+	float: center;
+}
+
+
